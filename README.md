@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/aman130604">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman130604&repo=YOUR_REPO&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman130604&repo=https://github.com/aman130604/Portfolio1.git&theme=tokyonight" />
   </a>
 </p>
 
